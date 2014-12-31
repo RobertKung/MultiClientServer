@@ -1,0 +1,2 @@
+// we are going to create a thread-safe stack for this multiclientserver project
+// It's pretty similar to the thread-safe queue we created. The only difference is stack is LIFO and queue is FIFO.
